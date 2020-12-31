@@ -1,0 +1,8 @@
+- Software Design / assignee: "unassigned" estimate: ""
+- Software Design Reviewed / assignee: "unassigned" estimate: "30m"
+- Code / assignee: "unassigned" estimate: ""
+- Code Reviewed / assignee: "unassigned" estimate: "30m"
+- Unit Tests / assignee: "unassigned" estimate: ""
+- Unit Tests Reviewed / assignee: "unassigned" estimate: "30m"
+- Regression Tests / assignee: "unassigned" estimate: "30m"
+- Signed Off / assignee: "unassigned" estimate: "30m"
